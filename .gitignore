@@ -1,0 +1,44 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Ll]ibrary/
+[Ll]ogs/
+[Bb]uild/
+[Aa]ssets/AssetStoreTools*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# ============================== #
+# Git LFS tracked files pointers #
+# ============================== #
+# (!) 如果你使用Git LFS，这些是由LFS管理的文件的实际指针，不应被忽略
+# *.psd
+# *.png
+# *.jpg
+# ...等其他你用LFS追踪的格式
